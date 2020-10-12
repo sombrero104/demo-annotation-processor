@@ -26,6 +26,9 @@
       <scope>test</scope>
     </dependency>
 
+    <!-- 직접 만든 @Magic 애노테이션과 프로세서를 가진
+          demo-annotation-processor2 라이브러리를 불러온다.
+     -->
     <dependency>
       <groupId>me.sombrero</groupId>
       <artifactId>demo-annotation-processor2</artifactId>
